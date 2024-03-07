@@ -1,4 +1,4 @@
-# Proyecto 1: Librería Triple Peaks
+# Proyecto 2: Cafeteria Triple Spresso
 
 La página web de la Librería Triple Peaks es el primer proyecto en el programa de Ingeniería de software en Triple Ten. Fue creado utilizando HTML y CSS, con base en un informe de diseño.
 
