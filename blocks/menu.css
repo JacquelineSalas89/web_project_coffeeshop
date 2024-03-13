@@ -1,0 +1,33 @@
+.menu {
+  background-color: #ffff;
+  background-image: url(../images/background_menu.svg);
+  background-size: cover;
+  position: relative;
+}
+
+.menu__title {
+  font-family: "Inter", Arial, sans-serif;
+  font-weight: 500;
+  font-size: 44px;
+  line-height: 52px;
+  margin: auto;
+  padding-top: 100px;
+  display: flex;
+  justify-content: center;
+}
+
+.menu__subtitle {
+  font-family: "Noto Serif", Times New Roman, serif;
+  font-size: 20px;
+  line-height: 30px;
+  max-width: 850px;
+  margin: 24px auto 100px auto;
+}
+
+.menu__cards {
+  gap: 100px;
+  display: flex;
+  justify-content: center;
+  margin-bottom: 100px;
+  flex-wrap: wrap;
+}
